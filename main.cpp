@@ -9,7 +9,7 @@ int main() {
         std::cout << "i = " << i << std::endl;
     }
 
-    std::cerr << "done." << std::endl;
+    std::cout << "done." << std::endl;
 
     return 0;
 }
